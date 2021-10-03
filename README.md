@@ -20,6 +20,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  src="https://static.wikia.nocookie.net/dublagempedia/images/6/65/TimonTLK3236.png/revision/latest/scale-to-width-down/512?cb=20200328032246&path-prefix=pt-br">
   src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   
 </div>
