@@ -1,4 +1,4 @@
-## Olá!!! Eu sou o Daniel Souza
+## Olá!!! Eu sou o Daniel Cardoso
 
 - 🔭 Hoje me dedico à Programação em Back-end
 - 🌱 Estudando Java, Automação de Testes, Spring Boot
