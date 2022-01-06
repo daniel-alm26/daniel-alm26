@@ -1,6 +1,5 @@
 ## Olá!!! Eu sou o Daniel Cardoso
 
-- 🔭 Hoje me dedico à Programação em Back-end
 - 🌱 Estudando Java, Automação de Testes, Spring Boot
 - 📫 Contate-me pelo e-mail: danielsouza26@hotmail.com
 
