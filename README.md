@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou o Daniel Cardoso
 
-- 🌱 Estudando Java, Automação de Testes, Spring Boot
+- 🌱 Estudando Java, Spring Boot, Automação de Testes. 
 - 📫 Contate-me pelo e-mail: danielsouza26@hotmail.com
 
 <div align="center">
