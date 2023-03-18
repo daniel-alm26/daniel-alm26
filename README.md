@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou o Daniel Cardoso
 
-- 🌱 Estudando Java, Spring Boot, SQL, MySQL, Automação de Testes. 
+- 🌱 Estudando atualmente Node.js, SQL, MySQL, TypeScript. 
 - 📫 Contate-me pelo e-mail: danielsouza26@hotmail.com
 
 <div align="center">
