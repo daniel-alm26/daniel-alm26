@@ -20,6 +20,8 @@
   <img align="center" title="Java" alt="Daniel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">          
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://static.wikia.nocookie.net/dublagempedia/images/6/65/TimonTLK3236.png/revision/latest/scale-to-width-down/512?cb=20200328032246&path-prefix=pt-br">
+  <img align="center" title="Python" alt="Daniel-Python" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##
