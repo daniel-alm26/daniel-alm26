@@ -28,7 +28,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
             
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://static.wikia.nocookie.net/dublagempedia/images/6/65/TimonTLK3236.png/revision/latest/scale-to-width-down/512?cb=20200328032246&path-prefix=pt-br">
- 
+
+  ####  <kbd>Automação:</kbd><br>  
   <img align="center" title="Selenium" alt="Daniel-Selenium" height="30" width="40"
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" title="Cypress" alt="Daniel-Cypress" height="30" width="40"
@@ -38,7 +39,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   
 ##
 
- ####  <kbd>Automação:</kbd><br>  
 <div>    
   <a href="https://www.instagram.com/_eudanielcardoso" target="_blank" rel="ext"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="ext"></a>
   <a href="https://t.me/eudaniellsouza"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
