@@ -15,6 +15,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 
 ####  <kbd>Front-end:</kbd><br> 
+<div style="display: inline_block"><br> &nbsp;
   <img align="center" title="Javascript" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" title="React" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="HTML5" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
