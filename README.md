@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   <img align="center" title="Selenium" alt="Daniel-Selenium" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" title="Python" alt="Daniel-Python" height="30" width="40"
-src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4">
+src="[https://avatars.githubusercontent.com/u/8908513?s=280&v=4](https://www.svgrepo.com/show/373542/cypress.svg)">
 </div>
   
 ##
