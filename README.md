@@ -29,8 +29,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
             
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://static.wikia.nocookie.net/dublagempedia/images/6/65/TimonTLK3236.png/revision/latest/scale-to-width-down/512?cb=20200328032246&path-prefix=pt-br">
-  <img align="center" title="Python" alt="Daniel-Python" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
   <img align="center" title="Selenium" alt="Daniel-Selenium" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
 </div>
