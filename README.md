@@ -7,6 +7,7 @@ Abaixo algumas stacks que tenho conhecimento e me aprofundado:
 
 #### <kbd>Back-end:</kbd><br>
  <img align="center" title="TypeScript" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" title="Java" alt="Daniel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
 
 ####  <kbd>Front-end:</kbd><br>
@@ -20,7 +21,7 @@ Abaixo algumas stacks que tenho conhecimento e me aprofundado:
   <img align="center" title="Python" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="CSharp" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" title="Nodejs" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" title="Java" alt="Daniel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">          
+            
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://static.wikia.nocookie.net/dublagempedia/images/6/65/TimonTLK3236.png/revision/latest/scale-to-width-down/512?cb=20200328032246&path-prefix=pt-br">
   <img align="center" title="Python" alt="Daniel-Python" height="30" width="40"
