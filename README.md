@@ -1,8 +1,11 @@
-## Olá!!! Eu sou o Daniel Cardoso
+## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, eu sou o Daniel Cardoso!
 
-- 🌱 Estudando atualmente Node.js, SQL, MySQL, TypeScript. 
-- 📫 Contate-me pelo e-mail: danielsouza26@hotmail.com
+Comecei a estudar programação no início de 2021 e até hoje sempre busco evoluir todo o dia. Atualmente atuo como Analista de Quality Assurance, elaborando planejamentos e roteiros de testes. Tenho me aprofundado cada vez mais na área de programação, principalmente como Desenvolvedor Back-end e RPA.
+Atualmente estou cursando o 5º período de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com formatura em dezembro de 2023.
 
+Abaixo algumas stacks que tenho conhecimento e me aprofundado: 
+
+#### <kbd>Back-end:</kbd><br>
 <div align="center">
   <a href="https://github.com/daniel-alm26">
 </div> 
