@@ -37,7 +37,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 </div>
   
 ##
-  
+
+ ####  <kbd>Automação:</kbd><br>  
 <div>    
   <a href="https://www.instagram.com/_eudanielcardoso" target="_blank" rel="ext"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="ext"></a>
   <a href="https://t.me/eudaniellsouza"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
