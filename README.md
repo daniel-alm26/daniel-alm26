@@ -13,6 +13,7 @@ Abaixo algumas stacks que tenho conhecimento e me aprofundado:
  <img align="center" title="CSharp" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" title="Python" alt="Daniel-Python" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
 
 
 ####  <kbd>Front-end:</kbd><br>  
@@ -30,6 +31,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
  
   <img align="center" title="Selenium" alt="Daniel-Selenium" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" title="Python" alt="Daniel-Python" height="30" width="40"
+src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4">
 </div>
   
 ##
