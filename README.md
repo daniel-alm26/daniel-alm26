@@ -6,9 +6,7 @@ Atualmente estou cursando o 5º período de Análise e Desenvolvimento de Sistem
 Abaixo algumas stacks que tenho conhecimento e me aprofundado: 
 
 #### <kbd>Back-end:</kbd><br>
-<div align="center">
-  <a href="https://github.com/daniel-alm26">
-</div> 
+
 
   
 <div style="display: inline_block"><br>
