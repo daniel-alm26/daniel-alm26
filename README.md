@@ -30,7 +30,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   src="https://static.wikia.nocookie.net/dublagempedia/images/6/65/TimonTLK3236.png/revision/latest/scale-to-width-down/512?cb=20200328032246&path-prefix=pt-br">
  
   <img align="center" title="Selenium" alt="Daniel-Selenium" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" title="Cypress" alt="Daniel-Cypress" height="30" width="40"
+ src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png">
   
 </div>
   
