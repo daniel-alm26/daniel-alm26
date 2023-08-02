@@ -9,7 +9,8 @@ Abaixo algumas stacks que tenho conhecimento e me aprofundado:
 <div style="display: inline_block"><br>
  <img align="center" title="TypeScript" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
  <img align="center" title="Java" alt="Daniel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
- <img align="center" title="Nodejs" alt="Daniel-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
+ <img align="center" title="Nodejs" alt="Daniel-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <img align="center" title="CSharp" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 
 ####  <kbd>Front-end:</kbd><br>
