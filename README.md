@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 
  ####  <kbd>Frameworks:</kbd><br> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
+  <img align="center" title="Spring Framework" alt="Daniel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
           
   
 </div>
