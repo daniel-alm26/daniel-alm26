@@ -2,7 +2,7 @@
 
 Comecei na programação no início de 2021 e sempre buscando evoluir a cada o dia na área de tecnologia. Atualmente atuo como Analista de Quality Assurance, elaborando planejamentos, roteiros e execução de testes. Tenho me aprofundado cada vez mais na área de programação, principalmente como Desenvolvedor Back-end e RPA.
 
-Atualmente estou cursando o 5º período de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com formatura em dezembro de 2023.
+Sou graduado em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, formado em dezembro de 2023.
 
 Abaixo algumas stacks que tenho conhecimento e me aprofundado: 
 
