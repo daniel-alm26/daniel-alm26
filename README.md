@@ -1,6 +1,6 @@
 ## Olá, eu sou o Daniel Cardoso!
 
-Comecei na programação no início de 2021 e sempre busco evoluir a cada o dia na área de Desenvolvimento de Sistemas. Atuuei como Analista de Quality Assurance, elaborando planejamentos, roteiros e execução de testes. 
+Comecei na programação no início de 2021 e sempre busco evoluir cada dia mais na área de Desenvolvimento de Sistemas. Atuei como Analista de Quality Assurance, elaborando planejamentos, roteiros e execução de testes. 
 
 Sou graduado em Análise e Desenvolvimento de Sistemas e Administração de Empresas.
 
