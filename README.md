@@ -1,8 +1,10 @@
-## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, eu sou o Daniel Cardoso!
+## Olá, eu sou o Daniel Cardoso!
 
-Comecei na programação no início de 2021 e sempre buscando evoluir a cada o dia na área de tecnologia. Atualmente atuo como Analista de Quality Assurance, elaborando planejamentos, roteiros e execução de testes. Tenho me aprofundado cada vez mais na área de programação, principalmente como Desenvolvedor Back-end e RPA.
+Comecei na programação no início de 2021 e sempre busco evoluir a cada o dia na área de Desenvolvimento de Sistemas. Atuuei como Analista de Quality Assurance, elaborando planejamentos, roteiros e execução de testes. 
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, formado em dezembro de 2023.
+Sou graduado em Análise e Desenvolvimento de Sistemas e Administração de Empresas.
+
+Tenho experiência em Gestão de Projetos, Desenvolvimento de Sistemas em Java, Planejamento e Estratégia de Testes.
 
 Abaixo algumas stacks que tenho conhecimento e me aprofundado: 
 
