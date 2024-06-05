@@ -23,11 +23,6 @@ Abaixo algumas stacks que tenho conhecimento e me aprofundado:
   <img align="center" title="HTML5" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS3" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
  
-  
-            
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  src="https://static.wikia.nocookie.net/dublagempedia/images/6/65/TimonTLK3236.png/revision/latest/scale-to-width-down/512?cb=20200328032246&path-prefix=pt-br">
-
   ####  <kbd>Automação:</kbd><br>  
   <img align="center" title="Selenium" alt="Daniel-Selenium" height="30" width="40"
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
