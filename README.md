@@ -1,12 +1,12 @@
-## Olá, eu sou o Daniel Cardoso!
+## Hi, I'm Daniel Cardoso!
 
-Comecei na programação no início de 2021 e sempre busco evoluir cada dia mais na área de Desenvolvimento de Sistemas. Atuei como Analista de Quality Assurance, elaborando planejamentos, roteiros e execução de testes. 
+I've been in the field of System Development since 2021, always striving to improve myself in this area.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e Administração de Empresas.
+I have experience in Project Management, Systems Development in Java with Spring Boot, Node.js with Express, SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB) and Test Planning and Strategy.
 
-Tenho experiência em Gestão de Projetos, Desenvolvimento de Sistemas em Java, Planejamento e Estratégia de Testes.
+I am undergraduated in Systems Analysis and Development and in Business Administration, and I have become a specialist in backend software development.
 
-Abaixo algumas stacks que tenho conhecimento e me aprofundado: 
+Below are some technology stacks that I am knowledgeable about and have delved into: 
 
 #### <kbd>Back-end:</kbd><br>
  <img align="center" title="TypeScript" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp;
