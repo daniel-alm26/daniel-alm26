@@ -9,19 +9,21 @@ I am undergraduated in Systems Analysis and Development and in Business Administ
 Below are some technology stacks that I am knowledgeable about and have delved into: 
 
 #### <kbd>Back-end:</kbd><br>
- <img align="center" title="TypeScript" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp;
+  &nbsp;
  <img align="center" title="Java" alt="Daniel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
  <img align="center" title="Nodejs" alt="Daniel-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" title="CSharp" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" title="Python" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
  <img align="center" title="Kotlin" alt="Daniel-Kotlin" height="30" width="40" src="https://devicons.railway.app/i/kotlin.svg" />
+ <img align="center" title="Dart" alt="Daniel-Dart" height="30" width="40" src="https://devicon-website.vercel.app/api/dart/original.svg">
 
 
 ####  <kbd>Front-end:</kbd><br>
   <img align="center" title="Javascript" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
   <img align="center" title="React" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="HTML5" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS3" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" title="CSS3" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Flutter" alt="Daniel-Flutter" height="30" width="40" 
+src="https://devicon-website.vercel.app/api/flutter/original.svg">  
  
   ####  <kbd>Automação:</kbd><br>  
   <img align="center" title="Selenium" alt="Daniel-Selenium" height="30" width="40"
